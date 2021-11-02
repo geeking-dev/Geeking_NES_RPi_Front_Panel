@@ -71,10 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAQEXYAW
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Nespi_front_panel_altium\Design Rule Check - Front_panel.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
